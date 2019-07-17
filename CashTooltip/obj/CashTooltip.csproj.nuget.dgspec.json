@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Julian\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CashTooltip\\CashTooltip.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Julian\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CashTooltip\\CashTooltip.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julian\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CashTooltip\\CashTooltip.csproj",
+        "projectName": "CashTooltip",
+        "projectPath": "C:\\Users\\Julian\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CashTooltip\\CashTooltip.csproj",
+        "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julian\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CashTooltip\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}
